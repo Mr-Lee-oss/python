@@ -30,3 +30,7 @@
 #b = str(b)
 #print(b)
 #print(a)
+#6014번
+#a=input() # 실수 하나를 받아서 출력 하는거
+#a=float(a)
+#print (a,a,a, sep='\n') # 변수 하나당 줄바꿈 하려면 sep='\n'을 해야함 
