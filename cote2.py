@@ -3,5 +3,5 @@
 #     print("신고횟수 : %d" %report)
 # solution("test", 2 )
 
-id_list = list(map(str, input("아이디 입력.\n").split(',')))
-print(id_list)
+id_list = {'a':1, 'b':2}
+print(id_list('a'))
