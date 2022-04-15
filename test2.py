@@ -89,5 +89,13 @@
 #a = int(input())
 #print(chr(a)) # ord는 문자 -> 정수 / chr은 정수 -> 문자로변환 시키는 것
 #6032번
-a = int(input())
-print(-a) # 정수를 받고 -를 통해 부호 변환을 함
+#a = int(input())
+#print(-a) # 정수를 받고 -를 통해 부호 변환을 함
+#6033번
+#a = input()
+#a = ord(a) # ord를 통해서 문자를 정수로 바꾸고
+#print(chr(a+1)) # chr을 통해서 정수를 문자로 바꿈
+#6034번
+#a,b = input().split() #split을 사용하여 공백으로 쪼개기
+#c = int(a) -int(b)  # 변수로 값 설정
+#print(c)
