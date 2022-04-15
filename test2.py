@@ -108,6 +108,10 @@
 #print(a*int(b)) # int로 변환해여 몇번 출력할것인지 한번에 할 수 있는듯
 #6037번
 #a, b = input().split('\n') #split로는 \n이 안되느듯
-a = int(input())
-b = input()
-print(a*b)
+#a = int(input()) # int로는 먹히는듯
+#b = input()
+#print(a*b)
+#6038번
+a,b = input().split()
+c = int(a)**int(b) # 제곱은 **
+print(c)
