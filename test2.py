@@ -99,3 +99,15 @@
 #a,b = input().split() #split을 사용하여 공백으로 쪼개기
 #c = int(a) -int(b)  # 변수로 값 설정
 #print(c)
+#6035번
+#a,b = input().split() # float으로 치환해서 받을수가 없는듯?
+#c = float(a)*float(b) # 중간 변수 지정 하여 계산
+#print (c)
+#6036번
+#a,b = input().split()
+#print(a*int(b)) # int로 변환해여 몇번 출력할것인지 한번에 할 수 있는듯
+#6037번
+#a, b = input().split('\n') #split로는 \n이 안되느듯
+a = int(input())
+b = input()
+print(a*b)
