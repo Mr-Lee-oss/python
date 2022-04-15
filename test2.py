@@ -112,6 +112,6 @@
 #b = input()
 #print(a*b)
 #6038번
-a,b = input().split()
-c = int(a)**int(b) # 제곱은 **
-print(c)
+#a,b = input().split()
+#c = int(a)**int(b) # 제곱은 **
+#print(c)
