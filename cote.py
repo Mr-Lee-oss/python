@@ -1,8 +1,6 @@
-from ctypes.wintypes import PINT
+def solution(p,s):
 
-
-n=15
-a=0
-for i in range(1,n+1):
-    str(i)
-    print(i)
+   return(p+s)
+p= int(input())
+s = int (input())
+print(solution(p,s))
